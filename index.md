@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 喷泉水秀智能播控系统
 
 You can use the [editor on GitHub](https://github.com/Blackjack201909/scs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
